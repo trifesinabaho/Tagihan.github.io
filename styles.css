@@ -1,0 +1,51 @@
+
+.container-box {
+  background: #3b82f6;
+  padding: 2rem;
+  width: 100%;
+  max-width: 500px;
+  border-radius: 20px;
+  color: white;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  border-top: 8px solid #93c5fd;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background: #dbeafe;
+  color: #1e3a8a;
+  border: none;
+}
+
+.total {
+  background: #bfdbfe;
+  font-weight: bold;
+}
+
+.btn {
+  width: 100%;
+  background: #1e3a8a;
+  padding: 12px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
